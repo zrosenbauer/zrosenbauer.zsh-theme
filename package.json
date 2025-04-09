@@ -1,0 +1,11 @@
+{
+  "name": "omz",
+  "scripts": {
+    "start": "nodemon",
+    "copy": "node copy.mjs"
+  },
+  "packageManager": "yarn@4.6.0",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

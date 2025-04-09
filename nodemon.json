@@ -1,0 +1,6 @@
+{
+  "watch": ["copy.mjs", "zrosenbauer.zsh-theme"],
+  "ext": "js,mjs,zsh-theme",
+  "exec": "node copy.mjs",
+  "stdin": false
+}
